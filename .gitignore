@@ -1,0 +1,11 @@
+node_modules/
+frontend/dist/
+frontend/.vite/
+bin/
+tmp/
+.env
+*.exe
+*.test
+*.out
+.DS_Store
+Thumbs.db
